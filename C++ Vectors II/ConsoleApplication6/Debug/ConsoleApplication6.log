@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication6.cpp
+c:\users\alan\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication6.vcxproj -> C:\Users\Alan\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\Alan\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Partial PDB)
