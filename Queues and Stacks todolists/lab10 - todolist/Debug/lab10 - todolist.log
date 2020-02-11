@@ -1,0 +1,4 @@
+﻿  toDoList.cpp
+c:\users\alan\source\repos\lab10 - todolist\lab10 - todolist\queue.h(57): warning C4715: 'Queue::pop': not all control paths return a value
+  lab10 - todolist.vcxproj -> C:\Users\Alan\source\repos\lab10 - todolist\Debug\lab10 - todolist.exe
+  lab10 - todolist.vcxproj -> C:\Users\Alan\source\repos\lab10 - todolist\Debug\lab10 - todolist.pdb (Partial PDB)
